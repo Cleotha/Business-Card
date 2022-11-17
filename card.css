@@ -1,0 +1,51 @@
+.doc{
+    justify-content: space-around;
+
+    background-color: #dd1c1a;
+    display: flex;
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    border-bottom: 5px solid #003249;
+    border-radius: 5px;
+    box-shadow: 2px 1px yellowgreen;
+}
+img{
+    width: 150px;
+}
+body{
+    font-style: italic;
+    margin: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card{
+    padding-left: 50px;
+    text-align: center;
+    text-shadow: 1px 1px darkblue;
+    color: #2b2839;
+.doc{
+    justify-content: space-around;
+
+    background-color: #dd1c1a;
+    display: flex;
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    border-bottom: 5px solid #003249;
+    border-radius: 5px;
+    box-shadow: 2px 1px yellowgreen;
+}
+img{
+    width: 150px;
+}
+body{
+    font-style: italic;
+    margin: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card{
+    padding-left: 50px;
+    text-align: center;
+    text-shadow: 1px 1px darkblue;
+    color: #2b2839;
+}
